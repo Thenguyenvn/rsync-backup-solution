@@ -222,4 +222,4 @@ Administratrice Système, Réseaux & Sécurité
 
 ---
 
-**Licence :** MIT - Libre d'utilisation en e
+**Licence :** MIT - Libre d'utilisation en environnement de production
