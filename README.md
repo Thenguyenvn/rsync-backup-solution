@@ -71,7 +71,6 @@ Cette solution répond à ces enjeux avec une approche double-stratégie.
 ### Sauvegarde
 - **Automatisation complète** : Exécution nocturne sans intervention
 - **Gestion des erreurs** : Retry automatique, alertes en cas d'échec
-- **Optimisation réseau** : Compression à la volée, transferts incrémentaux
 - **Traçabilité** : Journalisation horodatée de chaque opération
 
 ### Restauration
