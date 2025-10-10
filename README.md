@@ -115,7 +115,7 @@ ssh-copy-id -i ~/.ssh/id_ed25519.pub user@backup-server
 
 ### Configuration
 
-Adapter les paramètres dans `scripts/script_backup.sh` :
+Adapter les paramètres dans `scripts/backup.sh` :
 
 ```bash
 # Serveur de stockage
@@ -135,14 +135,14 @@ declare -A RETENTION_POLICY=(
 
 ```bash
 # Test manuel
-./scripts/script_backup.sh
+./scripts/backup.sh
 
 # Vérification des logs
 tail -f logs/backup.log
 
 # Automatisation (production)
 crontab -e
-# Ajout : 0 1 * * * /opt/backup/scripts/script_backup.sh
+# Ajout : 0 1 * * * /opt/backup/scripts/backup.sh
 ```
 
 ## Sécurité
