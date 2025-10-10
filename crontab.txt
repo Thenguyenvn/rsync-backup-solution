@@ -21,4 +21,4 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
-0 1 * * * /home/userocr/scripts/script_backup.sh >> /home/userocr/logs/cron_backup.log 2>&1
+0 1 * * * /home/userocr/scripts/backup.sh >> /home/userocr/logs/cron_backup.log 2>&1
